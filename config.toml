@@ -1,11 +1,11 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://www.example.com"
+baseurl = "http://asacamano.github.io"
 
 # Site title
-title = "sitename"
+title = "Shambhala Transition Task Force"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2018 Shambhala USA."
 
 # Language
 languageCode = "en-EN"
