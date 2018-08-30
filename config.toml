@@ -4,6 +4,9 @@ baseurl = "http://asacamano.github.io"
 # Site title
 title = "Shambhala Transition Task Force"
 
+# Date format (internlational)
+dateformat = "2006 Jan 2"
+
 # Copyright
 copyright = "(c) 2018 Shambhala USA."
 
