@@ -1,7 +1,7 @@
 ---
 title: "Shambhala Transition Task Force"
 date: 2018-08-01T00:59:31Z
-draft: true
+draft: false
 ---
 
 
