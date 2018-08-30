@@ -18,7 +18,7 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-# theme = "hugo-bootstrap"
+theme = "hugo-initio"
 
 # Pagination
 paginate = 10
@@ -36,17 +36,17 @@ disqusShortname = "your_disqus_shortname"
     topic = "topics"
 
 [author]
-    name = "yourname"
-    email = "yourname@example.com"
+    name = "Shambhala Transition Task Force"
+    email = "transitiontaskforce@shambhala.org"
 
 #
 # All parameters below here are optional and can be mixed and matched.
 #
 [params]
     # You can use markdown here.
-    brand = "foobar"
-    topline = "few words about your site"
-    footline = "code with <i class='fa fa-heart'></i>"
+    brand = "Shambhala Transition Task Force"
+    topline = ""
+    footline = ""
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
@@ -57,10 +57,10 @@ disqusShortname = "your_disqus_shortname"
     highlight = "default"
 
     # Google Analytics.
-    googleAnalytics = "Your Google Analytics tracking code"
+    googleAnalytics = ""
 
     # Sidebar social links.
-    github = "enten/hugo-boilerplate" # Your Github profile ID
+    github = "" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
     googleplus = "" # Your Google+ profile ID
