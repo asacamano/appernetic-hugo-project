@@ -12,6 +12,7 @@
             {{ .Render "content-list" }}
         {{ end }}
 
+        {{ partial "pagination" . }}
     </div>
     {{ partial "sidebar" . }}
 {{ partial "footer" . }}

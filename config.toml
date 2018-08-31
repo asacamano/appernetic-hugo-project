@@ -80,7 +80,7 @@ canonifyURLs = true
     twitter = "" # Your Twitter profile ID
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
-  
+
     # Copied from hugo-future-imperfect emaple site
     # Sets the meta tag description
     description          = "The Transition Task Force of Shambhala is conducting a board searh for a one-year Interim Board, and a search for a Process Team to help Shambhala heal and move forward."
@@ -120,7 +120,7 @@ canonifyURLs = true
     socialShareStumbleupon = true
     socialSharePinterest = true
     socialShareEmail     = true
-  
+
     # Load custom CSS or JavaScript files. The variable is an array so that you
     # can load multiple files if necessary. You can also load the standard theme
     # files by adding the value, "default".
@@ -193,25 +193,25 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "About"
-  url = "/about"
+  url = "/about/"
   identifier = "fa fa-info-circle"
   weight = 2
 
 [[menu.main]]
   name = "Members of the TTF"
-  url = "/members"
+  url = "/members/"
   identifier = "fa fa-id-card-o"
   weight = 3
 
 [[menu.main]]
   name = "Apply and Nominate"
-  url = "/how-to-apply"
+  url = "/how-to-apply/"
   identifier = "fa fa-envelope-o"
   weight = 4
 
 [[menu.main]]
   name = "Contact"
-  url = "/contact"
+  url = "/contact/"
   identifier = "fa fa-envelope-o"
   weight = 5
 
