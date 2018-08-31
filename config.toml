@@ -19,14 +19,21 @@ metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
 # theme = "hugo-initio"
-theme = "hugo-future-imperfect"
 
 # Pagination
-paginate = 10
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "your_disqus_shortname"
+# disqusShortname = "your_disqus_shortname"
+
+# Copied from the hugo-future-imperfect example site
+theme = "ttf-hugo-future-imperfect"
+preserveTaxonomyNames = true
+paginate = 3
+pluralizeListTitles = false
+# Set the followings to true as part of your site SEO
+enableRobotsTXT = true
+canonifyURLs = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -34,12 +41,13 @@ disqusShortname = "your_disqus_shortname"
 
 [taxonomies]
     tag = "tags"
-    topic = "topics"
+    category = "categories"
 
 [author]
     name = "Shambhala Transition Task Force"
     email = "transitiontaskforce@shambhala.org"
 
+#
 #
 # All parameters below here are optional and can be mixed and matched.
 #
@@ -50,7 +58,7 @@ disqusShortname = "your_disqus_shortname"
     footline = ""
 
     # Be international
-    DateForm = "2006 Jan 2"
+    DateForm = "2006 January 2"
 
     # Text for the top menu link, which goes the root URL for the site.
     # Default (if omitted) is "Home".
@@ -72,6 +80,64 @@ disqusShortname = "your_disqus_shortname"
     twitter = "" # Your Twitter profile ID
     youtube = ""  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
+  
+    # Copied from hugo-future-imperfect emaple site
+    # Sets the meta tag description
+    description          = "The Transition Task Force of Shambhala is conducting a board searh for a one-year Interim Board, and a search for a Process Team to help Shambhala heal and move forward."
+    # Sets the navbarTitle that appears in the top left of the navigation bar
+    navbarTitle          = "Shambhala TTF"
+    # Sets where "View More Posts" links
+    viewMorePostLink     = "/blog/"
+    # Optional Params
+    # Sets navbarTitle to match the section of the website
+    dynamicTitles        = true
+    # Sets RSS icons to appear on the sidebar with the social media buttons
+    rssAppearAtTop       = true
+    rssAppearAtBottom    = true
+    # Sets Social Media icons to appear on the sidebar
+    socialAppearAtTop    = false
+    socialAppearAtBottom = false
+    # Sets Categories to sort by number of posts instead of alphabetical
+    categoriesByCount    = true
+    # set to show or to hide categories in the sidebar
+    showSidebarCategories = true
+    # Sets Estimated Reading Time to appear in post headers
+    includeReadingTime   = true
+    # Sets the Favicon and Version for the site. Default support is for
+    # apple-touch-icon-precomposed.png, favicon.png, favicon.ico, and mstile.png.
+    # These are stored in the favicon folder. See the following for more information:
+    # https://github.com/audreyr/favicon-cheat-sheet
+    loadFavicon          = false
+    faviconVersion       = ""
+    # Sets Social Share links to appear on posts
+    socialShare          = false
+    # Sets specific share to appear on posts (default behavior is to appear)
+    socialShareTwitter   = true
+    socialShareGoogleplus = true
+    socialShareFacebook  = true
+    socialShareReddit    = true
+    socialShareLinkedin  = true
+    socialShareStumbleupon = true
+    socialSharePinterest = true
+    socialShareEmail     = true
+  
+    # Load custom CSS or JavaScript files. The variable is an array so that you
+    # can load multiple files if necessary. You can also load the standard theme
+    # files by adding the value, "default".
+    # customCSS            = ["default", "/path/to/file"]
+    # customJS             = ["default", "/path/to/file"]
+    customCSS            = ["default"]
+    customJS             = ["default"]
+
+    # options for highlight.js (version, additional languages, and theme)
+    disable_highlight = false # set to true to disable Highlight
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml", "css"]
+    highlightjsTheme = "github"
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
 
 [blackfriday]
     angledQuotes = true
@@ -81,3 +147,71 @@ disqusShortname = "your_disqus_shortname"
     plainIdAnchors = true
     extensions = []
     extensionmask = []
+
+# Disqus will take priority over Staticman (github.com/eduardoboucas/staticman)
+# due to its ease of use. Feel free to check out both and decide what you would
+# prefer to use. See Staticman.yml for additional settings.
+[params.staticman]
+  # Sets Statiman to be active
+  staticman = false
+  # Sets the location for Staticman to connect to
+  username  = ""
+  repo      = ""
+  branch    = ""
+
+# These are optional params related to the sidebar. They are recommended, but not
+# required for proper functionality. HTML is supported within the params.
+[params.intro]
+  header    = "Transition Task Force of Shambhala"
+
+  paragraph = ""
+
+  about     = ""
+
+#  # This appears at the top of the sidebar above params.intro.header.
+#  # A width of less than 100px is recommended from a design perspective.
+#  [params.intro.pic]
+#    src       = "/img/main/logo.jpg"
+#    # Sets Image to be a cirlce
+#    circle    = false
+#    # Sets Image to be Future Imperfect's hexagon
+#    imperfect = true
+#    width     = ""
+#    alt       = "Hugo Future Imperfect"
+
+[params.postAmount]
+# Sets the number of recent posts to show in the sidebar. The default value is 5.
+  sidebar = 5
+
+# Sets the menu items in the navigation bar
+# Identifier prepends a Font Awesome icon to the menu item
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  identifier = "fa fa-home"
+  weight = 1
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  identifier = "fa fa-info-circle"
+  weight = 2
+
+[[menu.main]]
+  name = "Members of the TTF"
+  url = "/members"
+  identifier = "fa fa-id-card-o"
+  weight = 3
+
+[[menu.main]]
+  name = "Apply and Nominate"
+  url = "/how-to-apply"
+  identifier = "fa fa-envelope-o"
+  weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "/contact"
+  identifier = "fa fa-envelope-o"
+  weight = 5
+

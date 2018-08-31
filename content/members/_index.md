@@ -1,12 +1,7 @@
 ---
 title: "Members of the Task Force"
 date: 2018-08-13T00:59:31Z
-aliases:
-  - "members"
 ---
-
-Members of the Task Force
-=========================
 
 -   ![ani-pema-chodron-headshot.jpg](https://static.wixstatic.com/media/48290d_66533595c63d42fa84e8b90cae1fe1cc~mv2.jpg/v1/crop/x_0,y_0,w_113,h_113/fill/w_158,h_158,al_c,lg_1,q_80/48290d_66533595c63d42fa84e8b90cae1fe1cc~mv2.webp)
 
