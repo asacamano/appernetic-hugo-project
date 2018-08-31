@@ -3,7 +3,10 @@
     {{ partial "navbar" . }}
     <!-- Main -->
     <div id="main">
+      <article class="post">
         {{ .Content }}
+      </article>
+      <h2>Latest updates</h2>
         {{ range first 1 (where .Site.Pages "Type" "post") }}
             {{ .Render "content-single" }}
 

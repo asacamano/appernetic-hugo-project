@@ -2,6 +2,9 @@
 title: "Purpose of the Task Force"
 date: 2018-08-13T00:59:31Z
 ---
+
+# Purpose of the Task Force
+
 ## Who We Are
 
 The Transition Task Force is a group of seven people with one facilitator who are responsible for appointing a one-year Interim Board and Process Team for Shambhala.
