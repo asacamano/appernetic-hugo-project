@@ -1,5 +1,5 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "http://asacamano.github.io"
+baseurl = "file:///home/chronos/u-01a80db448373b460d79ab9a9c7948c8ca94ba35/Downloads/ttf/appernetic-hugo-project/public/"
 
 # Site title
 title = "Shambhala Transition Task Force"
@@ -18,7 +18,8 @@ canonifyurls = true
 metaDataFormat = "toml"
 
 # Theme to use (located in /themes/THEMENAME/)
-theme = "hugo-initio"
+# theme = "hugo-initio"
+theme = "hugo-future-imperfect"
 
 # Pagination
 paginate = 10
