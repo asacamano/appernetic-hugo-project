@@ -41,6 +41,15 @@
 
     <!-- This is called by default since this theme uses highlight.js -->
     <script>hljs.initHighlightingOnLoad();</script>
-      {{ partial "footer_mathjax" . }}
+
+    <!-- Add a Google Translate Element to each page -->
+    <script type="text/javascript">
+      function googleTranslateElementInit() {
+        new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+      }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+    {{ partial "footer_mathjax" . }}
   </body>
 </html>

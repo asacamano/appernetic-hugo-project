@@ -1,6 +1,9 @@
 <!-- Sidebar -->
 <section id="sidebar">
 
+  <section id="translate">
+    <div id="google_translate_element"></div>
+  </section>
   <!-- Intro -->
   <section id="intro">
     {{ $pic := .Site.Params.intro.pic }}
@@ -52,7 +55,7 @@
               </h3>
               {{ $.Scratch.Set "dateType" .Date }}
               <time class="published" datetime='{{ ($.Scratch.Get "dateType").Format "2006-01-02" }}'>
-                {{ ($.Scratch.Get "dateType").Format "January 2, 2006" }}
+                {{ ($.Scratch.Get "dateType").Format .Site.Params.DateForm  }}
               </time>
             </header>
             {{ .Render "featured" }}
@@ -98,6 +101,42 @@
                 <span style="float:right;">{{ $value.Count }}</span>
               {{ else }}
                 Uncategorized
+                <span style="float:right;">{{ $value.Count }}</span>
+              {{ end }}
+            </header>
+          </article>
+        </p>
+        {{ end }}
+    </section>
+  {{ end }}
+  {{ end }}
+
+  <!-- This if statement only applies if someone goes to the /tags url -->
+  <!-- Otherwise this section is shown for all other links -->
+  {{ if .Site.Params.showSidebarTags  }}
+  {{ if ne ($.Scratch.Get "showTags") false }}
+  <!-- Tags List -->
+    <section id="tags">
+      <header>
+        <h3>
+          <a href="/tags/">Tags</a>
+        </h3>
+      </header>
+        {{ if .Site.Params.tagsByCount }}
+          {{ $.Scratch.Set "tags" .Site.Taxonomies.tags.ByCount }}
+        {{ else }}
+          {{ $.Scratch.Set "tags" .Site.Taxonomies.tags.Alphabetical }}
+        {{ end }}
+
+        {{ range $key, $value := $.Scratch.Get "tags" }}
+        <p>
+          <article>
+            <header>
+              {{ if ne $value.Name "" }}
+                <a href="/tags/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>
+                <span style="float:right;">{{ $value.Count }}</span>
+              {{ else }}
+                Untagged
                 <span style="float:right;">{{ $value.Count }}</span>
               {{ end }}
             </header>
