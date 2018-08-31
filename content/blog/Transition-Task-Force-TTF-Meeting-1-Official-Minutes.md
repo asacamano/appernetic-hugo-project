@@ -8,6 +8,10 @@ categories:
   - "Meeting Minutes"
 tags:
   - Minutes
+  - "Application Process"
+  - "Nomination process"
+  - Qualifications
+  - Responsibilities
 ---
 
 Please note - we make edited notes of our conversations public in the interest of transparency. These notes reflect the conversations and concerns of the TTF, but are not our final positions or decisions. All decisions taken by the task force will be published in our letters to the community.
