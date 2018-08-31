@@ -1,8 +1,13 @@
 ---
-title: ""
+title: "Introducing the Transition Task Force"
+type: post
 date: 2018-08-08T12:00:00
 aliases:
   - "single-post/2018/08/08/Introducing-the-Transition-Task-Force"
+categories:
+  - Announcements
+tags:
+  - Introduction
 ---
 
 Translations:  [Español](https://docs.wixstatic.com/ugd/48290d_e668e180f2fd4101a288989db43bb00a.pdf) - [Français](https://docs.wixstatic.com/ugd/48290d_2b7775723be44f94a208f60fc6fe3b17.pdf) - [Italiano](https://docs.wixstatic.com/ugd/48290d_f4ea8549ba254bb88735f3697a1e0770.pdf) - [Português](https://docs.wixstatic.com/ugd/48290d_dbc107f83cdc4b1bb25e3a2fcccf5307.pdf)\

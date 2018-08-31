@@ -1,12 +1,16 @@
 ---
 title: "Announcement of the Transition Task Force"
+type: post
 date: 2018-08-04T12:00:00
 aliases:
   - "single-post/2018/08/04/Announcement"
+categories:
+  - Announcements
+tags:
+  - Introduction
 ---
 
-Translations: [Deutsch - ](https://docs.wixstatic.com/ugd/48290d_9dd37580c2684dccb257ae522c4f2d8b.pdf)[Español - ](https://docs.wixstatic.com/ugd/48290d_e63cf79a8b2f4a8784c90df06de1ffaf.pdf)[Français - ](https://docs.wixstatic.com/ugd/48290d_d860285adfcb40c9a3ed1cd419d9ad39.pdf)[Italiano - ](https://docs.wixstatic.com/ugd/48290d_63381830505c425c88d9510f7c0dc1f1.pdf)[Polskie - ](https://docs.wixstatic.com/ugd/48290d_8f7a2ef28d9c4ada946d063b352cfc25.pdf)[Português](https://docs.wixstatic.com/ugd/48290d_c4d853305b6d4d66894687a0f3581f13.pdf)
-
+Translations:[Deutsch](https://docs.wixstatic.com/ugd/48290d_9dd37580c2684dccb257ae522c4f2d8b.pdf) | [Español - ](https://docs.wixstatic.com/ugd/48290d_e63cf79a8b2f4a8784c90df06de1ffaf.pdf)[Français - ](https://docs.wixstatic.com/ugd/48290d_d860285adfcb40c9a3ed1cd419d9ad39.pdf)[Italiano - ](https://docs.wixstatic.com/ugd/48290d_63381830505c425c88d9510f7c0dc1f1.pdf)[Polskie - ](https://docs.wixstatic.com/ugd/48290d_8f7a2ef28d9c4ada946d063b352cfc25.pdf)[Português](https://docs.wixstatic.com/ugd/48290d_c4d853305b6d4d66894687a0f3581f13.pdf)
 
 What follows is excepted from the July 30 email by the Kalapa Council to the Shambhala Community. The full text is available online [here](https://docs.wixstatic.com/ugd/48290d_bd251bda381645a2a7a6d8551f6fec65.pdf).
 

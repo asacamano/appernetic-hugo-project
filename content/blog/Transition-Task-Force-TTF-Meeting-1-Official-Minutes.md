@@ -1,8 +1,13 @@
 ---
 title: "Transition Task Force (TTF) Meeting #1 Official Minutes"
+type: post
 date: 2018-08-15T12:00:00
 aliases:
    - "single-post/2018/08/15/Transition-Task-Force-TTF-Meeting-1-Official-Minutes"
+categories:
+  - "Meeting Minutes"
+tags:
+  - Minutes
 ---
 
 Please note - we make edited notes of our conversations public in the interest of transparency. These notes reflect the conversations and concerns of the TTF, but are not our final positions or decisions. All decisions taken by the task force will be published in our letters to the community.
