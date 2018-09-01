@@ -1,0 +1,18 @@
+<table style="width: 100%; border: none;">
+  <tr>
+    <td colspan="2" align="left">
+      <h2>{{ .Get "title" }}</h2>
+    </td>
+  </tr>
+  <tr>
+    <td width="150px" align="center">
+  {{ $images := .Page.Resources.ByType "image" }}
+  {{ $original := $images.GetMatch (printf "%s" (.Get "src")) }}
+  {{ $image := $original.Fit "155x150" }}
+  <img src="{{ $image.RelPermalink }}" alt="{{ .Get "title" }} photo" width="{{ $image.Width }}" height="{{ $image.Height }}" style="border-radius: 50%"/>
+    </td>
+    <td align="left">
+  {{ .Inner }}
+    </td>
+  </tr>
+</table>
