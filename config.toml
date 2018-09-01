@@ -185,6 +185,7 @@ canonifyURLs = true
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
+
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -198,20 +199,20 @@ canonifyURLs = true
   weight = 2
 
 [[menu.main]]
-  name = "Members of the TTF"
+  name = "Members"
   url = "/members/"
-  identifier = "fa fa-id-card-o"
+  identifier = "fa fa-users"
   weight = 3
 
 [[menu.main]]
   name = "Apply and Nominate"
   url = "/how-to-apply/"
-  identifier = "fa fa-envelope-o"
-  weight = 4
+  identifier = "fa fa-drivers-license"
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  identifier = "fa fa-envelope-o"
-  weight = 5
+  identifier = "fa fa-envelope"
+  weight = 6
 
