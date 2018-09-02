@@ -35,6 +35,10 @@ pluralizeListTitles = false
 enableRobotsTXT = true
 canonifyURLs = true
 
+# Allow README.md files in the content section
+
+ignoreFiles = [ "README.md$" ]
+
 [permalinks]
     post = "/:year/:month/:day/:slug/"
     code = "/:slug/"
