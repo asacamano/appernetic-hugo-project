@@ -1,0 +1,12 @@
+{{ $lang := "Deutsch" }}
+<h1>Yo!</h1>
+<p>
+Resources: {{ .Page.Resources }}</br>
+Match: {{ .Page.Resources.Match "**/*.pdf" }}</br>
+{{ $pdf := .Page.Resources.GetMatch ( printf "**/translations/%s/* %s *.pdf" $lang ( .Get "date" ) ) }}
+PDF: {{ $lang }} : {{ $pdf }}
+</p>
+{{ with $pdf }}
+<a href="{{ $pdf.RelPermlink }}">{{ $lang }}</a>
+{{ end }}
+
