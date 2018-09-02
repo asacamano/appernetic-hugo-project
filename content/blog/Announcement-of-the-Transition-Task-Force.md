@@ -16,16 +16,23 @@ tags:
 resources:
   - "translations/Deutsch/GER - 7-30-18 - Transition Announcement.pdf"
   - "translations/English/EN - 7-30-18 - Transition Announcement.pdf"
-  - "translations/EspaÃ±ol/SP - 7-30-18 - Transition Announcement.pdf"
-  - "translations/FranÃ§ais/FR - 7-30-18 - Transition Announcement.pdf"
+  - "translations/Español/SP - 7-30-18 - Transition Announcement.pdf"
+  - "translations/Français/FR - 7-30-18 - Transition Announcement.pdf"
   - "translations/Italiano/IT - 7-30-18 - Transition Announcement.pdf"
   - "translations/Polskie/POL - 7-30-18 - Transition Announcement.pdf"
-  - "translations/PortuguÃªs/POR - 7-30-18 - Transition Announcement.pdf"
+  - "translations/Português/POR - 7-30-18 - Transition Announcement.pdf"
 ---
 
-{{% ttftrans date="7-30-18" %}}
+Translations:\
+[Deutsch](../translations/Deutsch/GER - 7-30-18 - Transition Announcement.pdf) |
+[Español](../translations/Español/SP - 7-30-18 - Transition Announcement.pdf) |
+[Français](../translations/Français/FR - 7-30-18 - Transition Announcement.pdf) |
+[Italiano](../translations/Italiano/IT - 7-30-18 - Transition Announcement.pdf) |
+[Polskie](../translations/Polskie/POL - 7-30-18 - Transition Announcement.pdf) |
+[Português](../translations/Português/POR - 7-30-18 - Transition Announcement.pdf)
 
-What follows is excepted from the July 30 email by the Kalapa Council to the Shambhala Community. The full text is available online [here](https://docs.wixstatic.com/ugd/48290d_bd251bda381645a2a7a6d8551f6fec65.pdf).
+
+What follows is excepted from the July 30 email by the Kalapa Council to the Shambhala Community. The full text is available online [here](../translations/English/EN - 7-30-18 - Transition Announcement.pdf).
 
 ***
 
@@ -43,11 +50,11 @@ Working in tandem with the Interim Board, the Process Team will develop a proces
 
 **Transition Task Force Members:**
 
-Ani Pema ChÃ¶drÃ¶n, Acharya\
+Ani Pema Chödrön, Acharya\
 Arawana Hayashi, Acharya\
 Charlene Leung, Acharya\
 Suzann Duquette, Acharya\
-Debbie Coats, DapÃ¶n and Interim European Governing Body Member\
+Debbie Coats, Dapön and Interim European Governing Body Member\
 Katrin Stelzel, Interim European Governing Body Member\
 Andrew Sacamano, Kasung Shastri\
 Sharon Owyang, Regional Director\
