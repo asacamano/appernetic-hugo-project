@@ -1,6 +1,18 @@
+# The directory that is built by Hugo
 public
+
+# Hugo cruftiness
 resources
+
+# vim cruftiness
 **/*.swp
+
+# Mac cruftiness
 **/__MACOSX*
+
+# IntelliJ IDE cruftiness
 .idea
 **/*.iml
+
+# Firebase hosting cruftiness
+.firebase
