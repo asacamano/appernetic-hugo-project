@@ -1,5 +1,6 @@
 # hostname (and path) to the root eg. http://spf13.com/
-baseurl = "file:///home/chronos/u-01a80db448373b460d79ab9a9c7948c8ca94ba35/Downloads/ttf/appernetic-hugo-project/public/"
+#baseurl = "file:///home/chronos/u-01a80db448373b460d79ab9a9c7948c8ca94ba35/Downloads/ttf/appernetic-hugo-project/public/"
+baseurl = "https://shambhala-transition.org"
 
 # Site title
 title = "Shambhala Transition Task Force"
