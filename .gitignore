@@ -2,3 +2,5 @@ public
 resources
 **/*.swp
 **/__MACOSX*
+.idea
+**/*.iml
