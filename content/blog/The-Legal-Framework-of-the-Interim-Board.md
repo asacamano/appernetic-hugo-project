@@ -13,7 +13,8 @@ tags:
   - Responsibilities
 ---
 
-Looking for "Questions about the meaning of Lineage of Sakyongs"? Click [here](https://www.shambhala-transition.org/single-post/2018/08/29/The-Stated-Purpose-of-Shambhala) instead.
+**Looking for "Questions about the meaning of Lineage of Sakyongs"?**\
+Click [here](https://www.shambhala-transition.org/single-post/2018/08/29/The-Stated-Purpose-of-Shambhala) instead.
 
 Over the past few weeks, the Transition Task Force has been asking more detailed questions of Alex Halpern (legal advisor to Shambhala). We have learned more specifics about the different legal roles of Interim Board and the Process Team, and wanted to share those.
 

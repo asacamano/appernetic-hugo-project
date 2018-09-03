@@ -16,10 +16,10 @@ tags:
   - Responsibilities
 resources:
   - src:"translations/English/EN - 8-7-18 - Transition Task Force.pdf"
-  - src:"translations/EspaÃ±ol/SP - 8-7-18 - Transition Task Force.pdf"
-  - src:"translations/FranÃ§ais/FR - 8-7-18 - Transition Task Force.pdf"
+  - src:"translations/Español/SP - 8-7-18 - Transition Task Force.pdf"
+  - src:"translations/Français/FR - 8-7-18 - Transition Task Force.pdf"
   - src:"translations/Italiano/IT - 8-7-18 - Transition Task Force.pdf"
-  - src:"translations/PortuguÃªs/POR - 8-7-18 - Transition Task Force.pdf"
+  - src:"translations/Português/POR - 8-7-18 - Transition Task Force.pdf"
 ---
 
 Translations:\

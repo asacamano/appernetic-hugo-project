@@ -14,9 +14,8 @@ tags:
   - Lineage of Sakyongs
 ---
 
-THE STATED PURPOSE OF SHAMBHALA
-
-AND THE INTERIM BOARD AND PROCESS TEAM
+**THE STATED PURPOSE OF SHAMBHALA
+AND THE INTERIM BOARD AND PROCESS TEAM**
 
 The legal purpose of the Shambhala organizations includes the phrase "a global community devoted to presenting, establishing, and advancing the wisdom, compassion, and skillful means of the lineage of the Sakyongs of Shambhala."
 
