@@ -3,7 +3,7 @@ title: "The Legal Framework of the Interim Board"
 type: post
 date: 2018-08-29T12:00:00
 aliases:
-  - "single-post/2018/08/29/200~The-Legal-Framework-of-the-Interim-Board"
+  - "single-post/2018/08/29/The-Legal-Framework-of-the-Interim-Board"
 categories:
   - Announcements
 tags:
