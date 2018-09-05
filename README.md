@@ -1,5 +1,10 @@
-# appernetic-hugo-project
-Hugo Project
+# ttf website
+
+## Copyright 
+
+Theme ttf-hugo-future-imperfect is MIT LIcensed, and based on https://github.com/jpescador/hugo-future-imperfect - thanks jpescador!
+
+All other content is copyright 2018, Shambhala USA.
 
 ## Commands
 
