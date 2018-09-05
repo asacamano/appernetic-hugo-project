@@ -26,15 +26,15 @@ We have heard from many people that healing is an important part of moving forwa
 
 **Nomination and application process and timelines**
 
-We've received a number of applications and nominations. It is great to hear from people willing to step forward into leadership positions in this challenging time. This is a landmark moment in the history of the Shambhala sangha, and we encourage you to take a moment now to contact anyone you think would be an effective leader in one of these positions and ask them to apply.  
+We've received a number of applications and nominations. It is great to hear from people willing to step forward into leadership positions in this challenging time. This is a landmark moment in the history of the Shambhala sangha, and we encourage you to take a moment now to contact anyone you think would be an effective leader in one of these positions and ask them to apply.
 
 If you wish to nominate someone, including advisors, please contact them to be sure that they are interested. You may wish to send them the link below, which is a short form, and which also asks for a CV or qualifications for either the IB or PT. We will not have time to follow up with suggested nominations. Please confirm with people you wish to nominate that they are interested. Thank you for your support with this key step.
 
   * [Interim Board Job Description](https://www.shambhala-transition.org/single-post/2018/08/29/Interim-Board-Job-Description)
-  * [Interim Board Applications and Nominations](https://goo.gl/forms/H3qOZxjxOgdu96kg2) (or fill out this [Word doc](https://docs.wixstatic.com/ugd/48290d_7779d458f3ec49a386be483e9c7ce19f.docx?dn=NOMINATION%20AND%20APPLICATION%20FORM%20FOR%20INTE))
-  * [Process Team Applications and Nominations](https://goo.gl/forms/utiAwRQOjIOKhF7h2) (or fill out this [Word doc](https://docs.wixstatic.com/ugd/48290d_423e1cda0c8e4934bd29cc4a88c1c95a.docx?dn=NOMINATION%20AND%20APPLICATION%20FORM%20FOR%20PT.d))
+  * [Interim Board Applications and Nominations](https://goo.gl/forms/H3qOZxjxOgdu96kg2) (or fill out this [Word doc](/NOMINATION AND APPLICATION FORM FOR INTERIM BOARD.docx))
+  * [Process Team Applications and Nominations](https://goo.gl/forms/utiAwRQOjIOKhF7h2) (or fill out this [Word doc](/NOMINATION AND APPLICATION FORM FOR PT.docx))
 
-For both the IB and PT we are looking for a broad range of applicants: younger people and older people, people from all over the world, people from diverse backgrounds and social identities, students of both Sakyongs and friends of Shambhala. In transparency, we as individuals are asking people to apply who we think will be good candidates. All candidates will go through the same defined process that will determine who will be interviewed and finally selected. If you feel inspired, but are hesitating for any reason, please reach out to us at [transitiontaskforce@shambhala.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=transitiontaskforce@shambhala.org)
+For both the IB and PT we are looking for a broad range of applicants: younger people and older people, people from all over the world, people from diverse backgrounds and social identities, students of both Sakyongs and friends of Shambhala. In transparency, we as individuals are asking people to apply who we think will be good candidates. All candidates will go through the same defined process that will determine who will be interviewed and finally selected. If you feel inspired, but are hesitating for any reason, please reach out to us at [transitiontaskforce@shambhala.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=transitiontaskforce@shambhala.org)
 
 **Interim Board Application Informational Zoom Calls**
 
