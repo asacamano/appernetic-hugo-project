@@ -144,7 +144,7 @@ ignoreFiles = [ "README.md$" ]
 
 
 [blackfriday]
-    angledQuotes = true
+    angledQuotes = false
     fractions = false
     hrefTargetBlank = false
     latexDashes = true
