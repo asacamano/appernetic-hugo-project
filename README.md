@@ -20,6 +20,7 @@ hugo --noTimes
 Deploy
 
 ```sh
+hugo --noTimes;
 firebase deploy
 ```
 
