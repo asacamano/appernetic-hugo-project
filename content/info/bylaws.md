@@ -1,6 +1,6 @@
 ---
 title: "The Bylaws of Shambhala Organizations"
-date: 2018-08-13T13:38:49Z
+date: 2018-09-06T05:00:00Z
 ---
 
 What we usually call "Shambhala" or "Shambhala International" is, legally speaking, several related nonprofit or not-for-profit organizations (or corporate entities).
