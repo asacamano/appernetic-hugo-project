@@ -27,7 +27,7 @@ A: No.
 **Q: What are the restrictions on the Interim Board?**\
 A: The Interim Board cannot change the [Shambhala Bylaws](https://www.shambhala-transition.org/info/bylaws/).
 
-**Q: WHat is the link for questions about the meaning of "Lineage of Sakyongs":**\
+**Q: What is the link for questions about the meaning of "Lineage of Sakyongs":**\
 A: [https://www.shambhala-transition.org/blog/the-stated-purpose-of-shambhala/](https://www.shambhala-transition.org/blog/the-stated-purpose-of-shambhala/) 
 
 **Q: Would the Interim Board be precluded from making recommendations or actions contrary to "established bylaws"?**\
