@@ -43,9 +43,9 @@ The Sakyong Potrang is formally waiving its right to appoint and remove the boar
 
 ## The Process Team and the Bylaws
 
-As the Process Team considers the future of Shambhala, they are free to envision anything, including changing the bylaws and structures of these organizations.
+As the Process Team considers the future of Shambhala, they are free to envision anything, including changing the structures of these organizations and even the bylaws.
 
-We hope that the Interim Board will help the Process Team experiment and prototype and respect the Process Teamâs recommendations, but that needs to take place within the existing bounds of the purpose and bylaws (included below). Success for the Process Team will thus take more than just convincing the members of the Interim Board - it will probably come from a sangha-wide conversation that includes the membership and the lineage.
+We hope that the Interim Board will help the Process Team experiment and prototype and respect the Process Team's recommendations, but that needs to take place within the existing bounds of the purpose and bylaws (included below). Success for the Process Team will thus take more than just convincing the members of the Interim Board - it will probably come from a sangha-wide conversation that includes the membership and the lineage.
 
 ## Current Articles of Incorporation and Bylaws
 
