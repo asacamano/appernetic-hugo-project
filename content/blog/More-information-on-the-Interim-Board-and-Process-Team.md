@@ -6,6 +6,7 @@ aliases:
   - "single-post/2018/08/30/More-information-on-the-Interim-Board-and-Process-Team"
 categories:
   - "Announcements"
+  - Letters
 tags:
   - "Announcement"
   - "Application Process"

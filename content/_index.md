@@ -12,3 +12,12 @@ In brief, our task is two-fold:
 
 The selection process will include input and recommendations received from the community.
 
+In recruiting the most qualified and appropriate nominees and applicants to serve on the Interim Board and the Process Team, the Transition Task Force is committed to:
+
+* Worldwide geographical representation
+* Diversity (eg. gender, gender identity, race, nationality, cultural, age, physical ability, socio-economic status) among those selected
+* A mix of ages and generations
+* Inviting former Shambhalians who are committed to the vision of Shambhala to apply
+* Considering non-Shambhalians, particularly those from institutions that share a strong resonance with the Shambhala view
+
+You can [find out more](/about) about the TTF, or read our [letters](/categories/letters).

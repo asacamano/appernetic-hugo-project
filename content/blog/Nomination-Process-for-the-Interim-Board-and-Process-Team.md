@@ -6,6 +6,7 @@ aliases:
   - "single-post/2018/08/19/Nomination-Process-for-the-Interim-Board-and-Process-Team"
 categories:
   - Announcements
+  - Letters
 tags:
   - Introduction
   - Announcement

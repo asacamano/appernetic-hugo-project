@@ -6,6 +6,7 @@ aliases:
   - "single-post/2018/08/08/Introducing-the-Transition-Task-Force"
 categories:
   - Announcements
+  - Letters
 tags:
   - Introduction
   - Announcement
