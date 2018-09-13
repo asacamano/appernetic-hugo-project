@@ -32,7 +32,7 @@ We've received a number of applications and nominations. It is great to hear fro
 If you wish to nominate someone, including advisors, please contact them to be sure that they are interested. You may wish to send them the link below, which is a short form, and which also asks for a CV or qualifications for either the IB or PT. We will not have time to follow up with suggested nominations. Please confirm with people you wish to nominate that they are interested. Thank you for your support with this key step.
 
   * [Interim Board Job Description](https://www.shambhala-transition.org/single-post/2018/08/29/Interim-Board-Job-Description)
-  * [Interim Board Applications and Nominations](https://goo.gl/forms/H3qOZxjxOgdu96kg2) (or fill out this [Word doc](/NOMINATION AND APPLICATION FORM FOR INTERIM BOARD.docx))
+  * Interim Board Applications and Nominations - closed.
   * [Process Team Applications and Nominations](https://goo.gl/forms/utiAwRQOjIOKhF7h2) (or fill out this [Word doc](/NOMINATION AND APPLICATION FORM FOR PT.docx))
 
 For both the IB and PT we are looking for a broad range of applicants: younger people and older people, people from all over the world, people from diverse backgrounds and social identities, students of both Sakyongs and friends of Shambhala. In transparency, we as individuals are asking people to apply who we think will be good candidates. All candidates will go through the same defined process that will determine who will be interviewed and finally selected. If you feel inspired, but are hesitating for any reason, please reach out to us at [transitiontaskforce@shambhala.org](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=transitiontaskforce@shambhala.org)

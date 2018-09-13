@@ -109,7 +109,7 @@ Expertise or experience in at least one of the following areas:
 
 Above are the preliminary qualifications for nominees and applicants. Next week, we will send you final qualifications, more information about the process, and timelines. For now, please use the above definitions and initial qualifications when considering your own application or recommendations for nominees. Please confirm the interest of any nominee you recommend before making your recommendation.
 
-If you are interested in being an applicant or are suggesting a nominee, please note the following steps: For those who are interested in being considered for or making recommendations for the Interim Board or Process Team and who meet the above initial qualifications, please fill out a short survey for [INTERIM BOARD NOMINATIONS](https://goo.gl/forms/H3qOZxjxOgdu96kg2) and [PROCESS TEAM NOMINATIONS](https://goo.gl/forms/utiAwRQOjIOKhF7h2).  In each survey there is a place to indicate interest in serving as an advisor for either.
+If you are interested in being an applicant or are suggesting a nominee, please note the following steps: For those who are interested in being considered for or making recommendations for the Interim Board or Process Team and who meet the above initial qualifications, please fill out a short survey for INTERIM BOARD NOMINATIONS (closed) and [PROCESS TEAM NOMINATIONS](https://goo.gl/forms/utiAwRQOjIOKhF7h2).  In each survey there is a place to indicate interest in serving as an advisor for either.
 
 The Transition Task Force will keep you informed of our ongoing work, discussions, and developments, on our website at  [https://www.shambhala-transition.org](https://www.shambhala-transition.org/),  You can contact us at <transitiontaskforce@shambhala.org>
 

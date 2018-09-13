@@ -17,13 +17,7 @@ tags:
 
 ## SHAMBHALA INTERIM BOARD MEMBER
 
-Link to Application Form: [Interim Board Applications and Nominations](https://goo.gl/forms/H3qOZxjxOgdu96kg2).
-
-(Fill in your email address to proceed to the second page of the form.)
-
-If you can not use the web form, please fill out this [word doc](/NOMINATION AND APPLICATION FORM FOR INTERIM BOARD.docx) and email it to us at [transitiontaskforce@shambhala.org](transitiontaskforce@shambhala.org).
-
-**The position is available now.**
+**The application window is closed.**
 
 **Application Deadline: September 8, 2018**
 
