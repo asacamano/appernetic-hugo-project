@@ -1,5 +1,5 @@
 ---
-title: "Nomination Process for the Interim Board and Process Team"
+title: "Update and Process Team Information"
 type: post
 date: 2018-09-13T08:11:54
 aliases:
