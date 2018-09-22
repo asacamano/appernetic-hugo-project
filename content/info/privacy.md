@@ -32,7 +32,7 @@ Anonymous data about how many visitors we have and what they pages they visit. W
 
 * We use cookies to track how people are moving through our site, see Website Analytics above.
 * Beyond using the infrastructure services described above, we do not share you data with any third parties.
-* We will only use your data for the work for the TTF in chosing a new IB and PT, and to contact you if you subscribe or apply for a post.
+* We will only use your data for the work for the TTF in chosing a new IB and PT, and to contact you if you subscribe, send us feedback, or apply for a post.
 * We will try to delete any data you share with us when the work of the TTF ends, although some of that data may persist in our personal email accounts and on our laptops.  We will always maintain the confidentiality of anything you share with us unless you give us premission to share it more widely.
 
 ## Other information
