@@ -55,7 +55,7 @@ A: Hopefully the Interim Board will have relationship with representatives of al
 A: Hopefully, the Process Team will develop some communication with the community and also be sharing that with the Interim Board. The idea is that the two groups will collaborate.
 
 **Q: When will the Interim Board start?**\
-A: We're aiming for September 22 for Interim Board to be seated.
+A: Iwe are currently interviewing applicants, and expect to seat a board by October 6. We're were originally aiming for September 22 for Interim Board to be seatedi, but finding and interviewing candidates took longer than we had hoped.
 
 **Q: If not the Interim Board, who will be handling the day-to-day operations of Shambhala USA etc?**\
 **Q: What does "oversight" mean with regard to day-to-day operations?**\
