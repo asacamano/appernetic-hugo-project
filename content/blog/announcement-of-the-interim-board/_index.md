@@ -4,6 +4,7 @@ type: post
 date: 2018-10-11T19:36:00
 categories:
   - Announcements
+  - Letters
 tags:
   - Announcement
   - Interim Board
