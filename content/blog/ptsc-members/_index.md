@@ -50,7 +50,7 @@ As a member of the Pioneer Valley Center in Northampton Massachusetts, Deborah h
 
 {{< member title="Frederick Meyer" src="frederick-meyer-headshot.png" >}}
 <p><b>New Orleans, LA, US, Culture Change</b></br>
-Lifelong Shambhala practitioner. He is interested in innovation and social entrepreneurship, and in how Shambhala can innovate to bring greater benefit to practitioners and society at large.  Frederick works as a web developer, and lives in New Orleans with his wife, Clara, and their dog, Lucy.
+Frederick Meyer is a lifelong Shambhala practitioner. He is interested in innovation and social entrepreneurship, and in how Shambhala can innovate to bring greater benefit to practitioners and society at large. Frederick works as a web developer, and lives in New Orleans with his wife, Clara, and their dog, Lucy.  
 {{</ member >}}
 
 {{< member title="Lisa Piemont" src="lisa-piemont-headshot.png" >}}
