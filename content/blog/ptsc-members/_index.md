@@ -21,8 +21,9 @@ Jim grew up on a small farm in South Dakota, the third of eleven children, and m
 
 {{< member title="LaDawn Haglund" src="ladawn-haglund-headshot.png" >}}
 <p><b>Phoenix, AZ, US, Culture Change</b></br>
-LaDawn Haglund is a sociologist and associate professor of justice and social inquiry at Arizona State University. She brings to the Process Team capacities in justice-based education and group facilitation, institutional analysis, and socially transformative processes. She serves as a meditation instructor and director of societal health and wellbeing at the Phoenix Shambhala Center, and has an aspiration to find out, together with the precious sangha, what Enlightened Society can be.
-</p>
+LaDawn is a sociologist and associate professor of justice and social inquiry at Arizona State University. She brings to the Process Team capacities in justice-based education and group facilitation, institutional analysis, and socially transformative processes. She has been practicing Buddhism since the 1980s, and in 2007 found her spiritual home in Shambhala. She is currently a Vajrayana practitioner who serves as a meditation instructor, director of Societal Health and Wellbeing, and Kenchung at the Phoenix Shambhala Center.</p>
+
+<p>As a sociologist and Buddhist, LaDawn has spent many years thinking about the kinds of social transformation that could make the world a more just and sustainable place, and how contemplative practices might play a role in this transformation. Her heartfelt aspiration in serving on the PT Steering Committee is to find out, together with the precious sangha, how we might together realize Enlightened Society.</p>
 {{</ member >}}
 
 {{< member title="Dian Marie Hosking" src="dian-marie-hosking-headshot.png" >}}
@@ -51,9 +52,9 @@ As a member of the Pioneer Valley Center in Northampton Massachusetts, Deborah h
 <p><b>New Orleans, LA, US, Culture Change</b></br>
 Frederick Meyer is a lifelong Shambhala practitioner. His first interest in dharma and in the Shambhala teachings was as a participant in Sun Camp, and he has followed the Shambhala path through Rigden Abhisheka.</p>
 
-<p>Frederick is interested in innovation and social entrepreneurship, and has a master's degree in social business from the Fletcher School at Tufts University. He has an abiding interest in how Shambhala can better foster innovation to benefit to both its practitioners and society at large.  Frederick has been at various times a volunteer, contractor, consultant, staff member, and project lead for various centers and projects in Shambhala throughout the past fifteen years.</p>
+<p>Frederick is interested in innovation and social entrepreneurship, and has a master's degree in social business from the Fletcher School at Tufts University. He has an abiding interest in how Shambhala can better foster innovation to benefit both its practitioners and society at large.  Frederick has been at various times a volunteer, contractor, consultant, staff member, and project lead for numerous centers and projects in Shambhala throughout the past fifteen years.</p>
 
-<p>Frederick works as a web developer and technology educator, and lives with his wife, Clara, and their dog, Lucy, in New Orleans, where he helps lead a Social Meditation practice group locally.</p>
+<p>Frederick works as a web developer and technology educator, and lives with his wife, Clara, and their dog, Lucy, in New Orleans, where he helps lead a Social Meditation practice group locally.<p>
 {{</ member >}}
 
 {{< member title="Lisa Piemont" src="lisa-piemont-headshot.png" >}}
