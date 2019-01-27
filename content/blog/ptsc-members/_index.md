@@ -74,6 +74,10 @@ Jose Tomas Ruano is an engineer and works in culture and organizational change i
 
 {{< member title="Susan Skjei" src="susan-skjei-headshot.png" >}}
 <p><b>Boulder, CO, US, Community Building</b></br>
-Acharya Susan Skjei is passionate about cultivating healthy communities and organizations and has consulted internationally with leaders from business, non-profit and government organizations.  She is currently the director of the Authentic Leadership Center at Naropa University.</p>
+Acharya Susan Skjei, Ph.D., is passionate about cultivating healthy teams, organizations and communities.  She is an educator, coach and organizational consultant specializing in leadership and transformative change.</p>
+
+<p>In 1972 Susan began her Buddhist studies with the Vidyadhara, Chogyam Trungpa Rinpoche. She attended the 1974 seminary and early Kalapa Assemblies and, at his request, became the first Shambhala Training resident director in the San Francisco Bay Area. Later, she became a student of Sakyong Mipham Rinpoche and served on the Shambhala Board of Directors for over 10 years. During that time she was also Vice President of Human Resource Development and Chief Learning Officer for a large technology company.</p>
+
+<p>For the last 15 years Susan has taught extensively and has provided mentoring, training and facilitation to many Shambhala Centers in North America and Europe. She has also consulted internationally with leaders of non-profit organizations and businesses worldwide.  Currently, Susan is the founding director of the Authentic Leadership Center at Naropa University which includes the Authentic Leadership in Action (ALIA) Institute.  She lives with her husband in Longmont, Colorado.</p>
 {{</ member >}}
 
