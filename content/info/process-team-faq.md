@@ -27,7 +27,7 @@ A:  Several organizational experts say the work will take longer than one year.
 **Q: It seems like a long process for the PT to do its work. What will happen meanwhile with community healing and trust if the IB is only focusing on finance, legal matters, etc.?**
 A: The listening, healing and learning process is already underway in many places and environments. The PT will build on this and foster communication with the community and also with the IB. The IB and PT are encouraged to work in tandem.
 
-##__Please Note__: The following Q&A is the last addition to this FAQ by the Transition Task Force.
+### Please Note: The following Q&A is the last addition to this FAQ by the Transition Task Force.
 
 **Questions About the Following Statements by the TTF:**
 
