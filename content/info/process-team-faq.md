@@ -29,7 +29,7 @@ A: The listening, healing and learning process is already underway in many place
 
 ### Please Note: The following Q&A is the last addition to this FAQ by the Transition Task Force.
 
-**Questions About the Following Statements by the TTF:**
+**Questions About the Following Statements by the TTF**
 
 > The PT **is not a mandala[-wide] decision-making body**. Its job is to listen, sense, and explore, to prototype and **eventually make recommendations**.
 >
@@ -59,7 +59,7 @@ A: The listening, healing and learning process is already underway in many place
 
 ### Specific Questions
 
-**Q: Why has the TTF decided that "mandala wide decisions" around changes to our culture and governance are not the purview of the PT?_ _If they aren't within the PT's scope, than who is the decision making body?**
+**Q: Why has the TTF decided that "mandala wide decisions" around changes to our culture and governance are not the purview of the PT? If they aren't within the PT's scope, than who is the decision making body?**
 A: There is no decision-making body at this time for mandala-wide change in the topic areas of the PT:  healing, culture change, governance structure, and community building. The IB is responsible for the fiduciary and legal oversight for Shambhala. The PT's purpose is develop processes for listening, exploring, and discovering local, regional, and mandala-wide voices and needs toward effective change. The SC is about helping to coordinate these processes toward mutual agreements and recommendations and to help create the best possible conditions for implementing them.  
 
 **Q: To whom do we make our recommendations? Without the Sakyong, and without a Council (The IB's scope is limited) it is not clear where our work leads.**
