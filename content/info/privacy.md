@@ -20,10 +20,6 @@ You can sign up for our mailing list by providing your email address. We use [Se
 
 You can send us feedback, which is processed using [Formspree](https://formspree.io/static/PrivacyPolicy.pdf). The feedback form is sent to Formspree, who turn it into an email and email it to our shared email address, transitiontaskforce@shambhala.org.
 
-## Website analytics
-
-Anonymous data about how many visitors we have and what they pages they visit. We use [Matomo](https://matomo.org/privacy-policy/) which seems to be a privacy-friendly way to get a sense of what users are doing on our website.
-
 ## Hosting
 
 [Firebase Hosting](https://firebase.google.com/support/privacy/) serves our web traffic for us, and they probably [collect](https://policies.google.com/privacy) some data about who visits sites they serve.
